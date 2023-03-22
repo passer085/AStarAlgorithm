@@ -1,0 +1,4 @@
+Prioridad;Descripcion;Puntacion;
+0;Puerta 002 no cierra correctamente;-1;
+1;Puerta 004 no cierra correctamente;5;
+2;Puerta 904 no cierra correctamente;100;
